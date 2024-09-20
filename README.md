@@ -1,2 +1,2 @@
-# random-password-gen
-Python Random Password Generator
+# Intro to Python Assignment
+Random Password Generator using Python
